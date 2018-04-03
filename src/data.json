@@ -1,0 +1,45 @@
+[
+  {
+    "id":1,
+    "ProductName":"Turmeric Powder",
+    "BrandName":"MTR",
+    "ProductImage":"images/05.jpg",
+    "PackingDetail":"100gm",
+    "Price":70
+    },{
+      "id":2,
+      "ProductName":"Biryani Pulav- masala",
+      "BrandName":"Dakshin's",
+      "ProductImage":"images/07.jpg",
+      "PackingDetail":"150gm",
+      "Price":330
+      },{
+    "id":3,
+    "ProductName":"Chilli Powder",
+    "BrandName":"MTR",
+    "ProductImage":"images/02.jpg",
+    "PackingDetail":"100gm",
+    "Price":65
+    },{
+    "id":4,
+    "ProductName":"Honey",
+    "BrandName":"Dabur",
+    "ProductImage":"images/03.jpg",
+    "PackingDetail":"500gm",
+    "Price":450
+  },  {
+    "id":5,
+    "ProductName":"Methi Powder",
+    "BrandName":"MTR",
+    "ProductImage":"images/04.jpg",
+    "PackingDetail":"100gm",
+    "Price":20
+    },{
+    "id":6,
+    "ProductName":"Garam masala",
+    "BrandName":"Everest",
+    "ProductImage":"images/06.jpg",
+    "PackingDetail":"150gm",
+    "Price":330
+    }
+]
